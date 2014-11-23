@@ -85,23 +85,23 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-Body_Acceleration_Time_XYZ
-Gravity_Acceleration_Time_XYZ
-Body_Acceleration_Jerk_Time_XYZ
-Body_Gyro_Time_XYZ
-Body_Gyro_Jerk_Time_XYZ
-Body_Acceleration_Mag_Time
-Gravity_Acceleration_Mag_Time
-Body_Acceleration_Jerk_Mag_Time
-Body_Gyro_Mag_Body_Time
-Body_Gyro_Jerk_Mag_Time
-Body_Acceleration_Freq_XYZ
-Body_Acceleration_Jerk_Body_Freq_XYZ
-Body_Gyro_Freq_XYZ
-Body_Acceleration_Mag_Freq
-Body_Acceleration_Jerk_Mag_Body_Freq
-Body_Gyro_Mag_Freq
-Body_Gyro_Jerk_Mag_Freq
+Body_Acceleration_Time_XYZ, 
+Gravity_Acceleration_Time_XYZ, 
+Body_Acceleration_Jerk_Time_XYZ, 
+Body_Gyro_Time_XYZ, 
+Body_Gyro_Jerk_Time_XYZ, 
+Body_Acceleration_Mag_Time, 
+Gravity_Acceleration_Mag_Time, 
+Body_Acceleration_Jerk_Mag_Time, 
+Body_Gyro_Mag_Body_Time, 
+Body_Gyro_Jerk_Mag_Time, 
+Body_Acceleration_Freq_XYZ, 
+Body_Acceleration_Jerk_Body_Freq_XYZ, 
+Body_Gyro_Freq_XYZ, 
+Body_Acceleration_Mag_Freq, 
+Body_Acceleration_Jerk_Mag_Body_Freq, 
+Body_Gyro_Mag_Freq, 
+Body_Gyro_Jerk_Mag_Freq, 
 
 The set of variables that were estimated from these signals are: 
 
